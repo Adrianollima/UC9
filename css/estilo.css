@@ -26,3 +26,27 @@ header .banner {
   width: 1350px;
 }
 
+.galeria{
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+#img1{
+  padding-right: 80px;
+  max-height: 900px;
+  max-width: 450px;
+}
+
+
+#img2{
+  padding-right: 80px;
+  max-height: 900px;
+  max-width: 450px;
+}
+
+
+#img3{
+  padding-right: 80px;
+  max-height: 830px;
+  max-width: 415px;
+}
