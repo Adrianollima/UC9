@@ -4,14 +4,16 @@ body {
   font-size: 20px;
 }
 header .container {
+  
   background-color: aqua;
+  font-size: 20px;
   font-variant: initial;
-  margin-top: 70px;
-  margin-left: 50px;
-  margin-top: 80px;
-  padding-top: 30px;
-  padding-bottom: 10px;
-  padding-right: 15px;
+  width:auto;
+  height: 80px;
+  
+}
+header .container #menu{
+  padding-top: 20px;
 }
 
 header nav {
@@ -24,6 +26,10 @@ header .banner {
   margin: right 10px;
   margin-left: 10px;
   width: 1350px;
+}
+
+.infotext{
+  margin-top: 100px;
 }
 
 .galeria{
