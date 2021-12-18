@@ -30,6 +30,8 @@ header .banner {
 
 .infotext{
   margin-top: 100px;
+  margin-bottom: 100px;
+
 }
 
 .galeria{
@@ -64,4 +66,8 @@ header .banner {
   margin-top: 20px;
   width:auto;
 
+}
+
+.contato{
+  margin-left: 1480px;
 }
