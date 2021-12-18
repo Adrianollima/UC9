@@ -35,6 +35,8 @@ header .banner {
 .galeria{
   margin-left: 200px;
   margin-right: 200px;
+  margin-bottom: 20px;
+
 }
 
 #img1{
@@ -55,4 +57,11 @@ header .banner {
   padding-right: 80px;
   max-height: 830px;
   max-width: 415px;
+}
+
+.rodape{
+  background-color: aqua;
+  margin-top: 20px;
+  width:auto;
+
 }
